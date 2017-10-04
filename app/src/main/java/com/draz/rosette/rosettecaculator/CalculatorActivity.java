@@ -47,6 +47,7 @@ public class CalculatorActivity extends AppCompatActivity implements View.OnClic
             String stNum2=etNum2.getText().toString();
             double num2=Double.parseDouble(stNum2);
 
+           // tvResult.setText(num1*num2);
 
         }
 
